@@ -4232,10 +4232,10 @@ gauge@~2.7.3:
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
 
-geolib@^2.0.24:
-  version "2.0.24"
-  resolved "https://registry.yarnpkg.com/geolib/-/geolib-2.0.24.tgz#eb3d7fbc65f5ea3354a5af6054563ebe9f33e5f4"
-  integrity sha512-NR0AyYyEnGrFS9JvSFmmotQDxVCORJgDHdvBwSatxl5aHarOLMh3KuGI83bCvCfObjfoEiDe8Ung8GGLGAtthw==
+geolib@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/geolib/-/geolib-3.0.4.tgz#63fd82cf4311f08cadc142aaa73a0941844266d1"
+  integrity sha512-IpbpPdfuVdjj2T909H0Kj0Crp0he+xfFYX6e1Wlvo5L2OVkfnfvpTLp9k0VYuu5ObbWhQ/TI2VKNsrAokss5vA==
 
 get-caller-file@^1.0.1:
   version "1.0.3"
