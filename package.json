@@ -23,7 +23,7 @@
     "axios": "^0.18.0",
     "geolib": "^2.0.24",
     "graphql-tag": "^2.9.2",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "react": "16.6.1",
     "react-apollo": "^2.1.9",
